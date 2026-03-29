@@ -14,3 +14,11 @@ OBJECTIVES
 - Conduct thorough EDA to understand feature distributions
 - Identify correlations between features and the target variable
 - Create meaningful visualizations to support findings
+
+TECH STACK
+- Python 3.x
+- Pandas — data manipulation and EDA
+- NumPy — numerical operations
+- Matplotlib — base plotting
+- Seaborn — statistical visualizations
+- Jupyter Notebook — interactive analysis environment
