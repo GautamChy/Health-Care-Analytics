@@ -3,7 +3,8 @@ PROJECT OVERVIEW
 The goal is to clean, explore, and visualize the data to uncover meaningful patterns and relationships between health indicators and diabetes outcomes.
 
 DATASET
-- Property DetailsSourceKaggle
-   — Pima Indians Diabetes Database
+- Property Details
+  - SourceKaggle
+  — Pima Indians Diabetes Database
   - Rows768 Columns9
   - Target Variable   Outcome (0 = Non-Diabetic, 1 = Diabetic)
