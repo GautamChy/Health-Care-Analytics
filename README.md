@@ -8,3 +8,9 @@ DATASET
   — Pima Indians Diabetes Database
   - Rows768 and Columns9
   - Target Variable     Outcome (0 = Non-Diabetic, 1 = Diabetic)
+ 
+OBJECTIVES 
+- Perform data cleaning and handle missing/erroneous values
+- Conduct thorough EDA to understand feature distributions
+- Identify correlations between features and the target variable
+- Create meaningful visualizations to support findings
