@@ -4,7 +4,7 @@ The goal is to clean, explore, and visualize the data to uncover meaningful patt
 
 DATASET
 - Property Details
-  - SourceKaggle
+  - Source Kaggle
   — Pima Indians Diabetes Database
   - Rows768 Columns9
   - Target Variable   Outcome (0 = Non-Diabetic, 1 = Diabetic)
