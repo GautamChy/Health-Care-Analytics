@@ -1,3 +1,3 @@
 PROJECT OVERVIEW 
-This project performs a complete Exploratory Data Analysis (EDA) on the Pima Indians Diabetes Dataset — a well-known medical dataset used to predict the likelihood of diabetes in patients based on clinical features.
+- This project performs a complete Exploratory Data Analysis (EDA) on the Pima Indians Diabetes Dataset — a well-known medical dataset used to predict the likelihood of diabetes in patients based on clinical features.
 The goal is to clean, explore, and visualize the data to uncover meaningful patterns and relationships between health indicators and diabetes outcomes.
