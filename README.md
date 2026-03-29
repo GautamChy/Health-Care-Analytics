@@ -6,5 +6,5 @@ DATASET
 - Property Details
   - Source Kaggle
   — Pima Indians Diabetes Database
-  - Rows768 Columns9
-  - Target Variable   Outcome (0 = Non-Diabetic, 1 = Diabetic)
+  - Rows768 and Columns9
+  - Target Variable     Outcome (0 = Non-Diabetic, 1 = Diabetic)
